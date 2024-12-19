@@ -23,7 +23,7 @@ My research focuses on wireless sensing mobile computing.
 
 
 # 🔥 News
-- *2024.12*: <span style="color: red;">New!</span>🎉🎉 Our work <b>mmFinger</b> is accepted by <b>IEEE TMC 2024</b>. 
+- *2024.12*: <span style="color: red;">  <b>New!</b> </span>🎉🎉 Our work <b>mmFinger</b> is accepted by <b>IEEE TMC 2024</b>. 
 
 
 # 📝 Publications 
