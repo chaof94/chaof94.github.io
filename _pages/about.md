@@ -52,8 +52,8 @@ Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiao
 - *2016.09 - 2027.06*, Master in Communication Engineering (Supervisor: Xiaojiang Chen), Northwest University. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*. 
 
 
 # 💻 Internship
-{%- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.%}
+
