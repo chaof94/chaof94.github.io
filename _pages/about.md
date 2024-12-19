@@ -28,7 +28,7 @@ My research focuses on wireless sensing mobile computing.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [mmFinger: Talk to Smart Devices with Finger Tapping Gesture](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=pvDegeQAAAAJ&sortby=pubdate&citation_for_view=pvDegeQAAAAJ:ULOm3_A8WrAC)
