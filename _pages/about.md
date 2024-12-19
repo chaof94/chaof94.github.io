@@ -48,8 +48,8 @@ Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiao
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.06 - to now*, Associate professor, Northwest University. 
-- *2016.09 - 2022.06*, PhD in Software Engineering, Northwest University. 
+- *2017.09 - 2022.06*, PhD in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
+- *2016.09 - 2027.06*, Master in Communication Engineering (Supervisor: Xiaojiang Chen), Northwest University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
