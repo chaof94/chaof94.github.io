@@ -67,7 +67,7 @@ Xue Sun, Jie Xiong, **Chao Feng**, Xiaohui Li, Jiayi Zhang, Binghao Li, Dingyi F
 
 
 # 🎖 Honors and Awards
-- *2018.11*  **Best Poster Award** in Sensys 2018. 
+- *2018.11*:  **Best Poster Award**,  **Sensys 2018**. 
 
 
 # 📖 Educations
