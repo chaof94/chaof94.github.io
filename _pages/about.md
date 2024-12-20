@@ -60,6 +60,18 @@ Xue Sun, Jie Xiong, **Chao Feng**, Xiaohui Li, Jiayi Zhang, Binghao Li, Dingyi F
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobisys 2024</div><img src='images/CW-AcousLen.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**CW-AcousLen: A Configurable Wideband Acoustic Metasurface**](https://chaof94.github.io/Papers/CW-AcousLen.pdf)
+
+Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Liu,  Xiaojiang Chen
+
+ **Mobisys 2024 (CCF B)**
+
+- Acoustic metasurface.
+</div>
+</div>
 
 
 
