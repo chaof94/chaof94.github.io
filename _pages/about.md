@@ -35,7 +35,7 @@ My research focuses on **wireless sensing** and **mobile computing**.
  
  Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiaojiang Chen
 
-**TMC 2024 (CCF A)**
+**IEEE TMC 2024 (CCF A)**
 
 - mmWave Sensing.
 </div>
@@ -52,7 +52,7 @@ My research focuses on **wireless sensing** and **mobile computing**.
 
 Xue Sun, Jie Xiong, **Chao Feng**, Xiaohui Li, Jiayi Zhang, Binghao Li, Dingyi Fang, Xiaojiang Chen
 
- **Mobicom 2024 (CCF A)**
+ **ACM Mobicom 2024 (CCF A)**
 
 - RFID Sensing.
 - Gas Sensing
@@ -67,7 +67,7 @@ Xue Sun, Jie Xiong, **Chao Feng**, Xiaohui Li, Jiayi Zhang, Binghao Li, Dingyi F
 
 Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Liu,  Xiaojiang Chen
 
- **Mobisys 2024 (CCF B)**
+ **ACM Mobisys 2024 (CCF B)**
 
 - Acoustic Metasurface.
 </div>
@@ -81,7 +81,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
  Xue Sun, Jie Xiong, **Chao Feng**, Haoyu Li, Yuli Wu, Dingyi Fang, Xiaojiang Chen
 
-**TMC 2024 (CCF A)**
+**IEEE TMC 2024 (CCF A)**
 
 - Earphone Sensing.
 - Silent Speech Recognition.
@@ -96,7 +96,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
  Xuan Wang, Tong Liu, **Chao Feng**, Dingyi Fang, Xiaojiang Chen
 
-**Ubicomp 2023 (CCF A)**
+**ACM Ubicomp 2023 (CCF A)**
 
 - mmWave Sensing.
 </div>
@@ -109,7 +109,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
  Yicheng Jiang, Xia Zheng, **Chao Feng**
 
-**JOCCH 2023**
+**ACM JOCCH 2023**
 
 - Wi-Fi Sensing.
 </div>
@@ -123,7 +123,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
  Xinyi Li(Equal Contribution), **Chao Feng (Equal Contribution)**, Xiaojing Wang, Yangfan Zhang, Yaxiong Xie, Xiaojiang Chen
 
-**NSDI 2023 (CCF A)**
+**USENIX NSDI 2023 (CCF A)**
 
 - RF Metasurface.
 </div>
@@ -136,7 +136,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
  Xue Sun, Jie Xiong, **Chao Feng (Corresponding Author)**, Wenwen Deng, Xudong Wei, Dingyi Fang, Xiaojiang Chen
 
-**Ubicomp 2022 (CCF A)**
+**ACM Ubicomp 2022 (CCF A)**
 
 - Earphone Sensing.
 </div>
@@ -150,7 +150,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
  Xinyi Li(Equal Contribution), **Chao Feng (Equal Contribution)**, Fengyi Song, Chenghan Jiang, Yangfan Zhang, Xinyu Zhang, Xiaojiang Chen
 
-**Mobicom 2022 (CCF A)**
+**ACM Mobicom 2022 (CCF A)**
 
 - RF Metasurface.
 </div>
@@ -164,7 +164,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
 **Chao Feng**, Nan Wang, Yicheng Jiang, Xia Zheng, Zheng Wang, Xiaojiang Chen
 
-**Ubicomp 2022 (CCF A)**
+**ACM Ubicomp 2022 (CCF A)**
 
 - Wi-Fi Sensing.
 </div>
@@ -177,7 +177,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
  **Chao Feng (Equal Contribution)**,  Xinyi Li(Equal Contribution),  Yangfan Zhang, Xiaojing Wang, Liqiong Chang, Fuwei Wang, Xinyu Zhang, Xiaojiang Chen
 
-**Mobicom 2021 (CCF A)**
+**ACM Mobicom 2021 (CCF A)**
 
 - RF Metasurface.
 </div>
@@ -190,7 +190,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
 **Chao Feng**, Jie Xiong, Liqiong Chang, Fuwei Wang, Ju Wang, Dingyi Fang
 
-**Ubicomp 2021 (CCF A)**
+**ACM Ubicomp 2021 (CCF A)**
 
 - RFID Sensing.
 </div>
@@ -203,7 +203,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
 **Chao Feng**, Jie Xiong, Liqiong Chang,  Ju Wang, Xiaojiang Chen, Dingyi Fang, Zhanyong Tang
 
-**ICDCS 2019 (CCF B)**
+**IEEE ICDCS 2019 (CCF B)**
 
 - Wi-Fi Sensing.
 </div>
@@ -217,7 +217,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 
 **Chao Feng**, Xinyi Li, Liqiong Chang, Jie Xiong, Xiaojiang Chen, Dingyi Fang, Baoying Liu, Feng Chen, Tao Zhang
 
- **Sensys Poster 2018 (CCF B)**, 🏆 <span style="color:red;"> **Best poster award** </span>  
+ **ACM Sensys Poster 2018 (CCF B)**, 🏆 <span style="color:red;"> **Best poster award** </span>  
 
 - Wi-Fi Sensing.
 </div>
