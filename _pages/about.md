@@ -19,7 +19,12 @@ redirect_from:
 
 I received my PhD degree in 2022 from Northwest University, under the supervision of [Prof. Xiaojiang Chen](https://xjchen-nwu.github.io/xiaojiangchen.github.io/). I am currently an associate professor in the School of Computer Science and Technology at Northwest University. Email: chaofeng@nwu.edu.cn
 
-My research focuses on **wireless sensing** and **mobile computing**.
+# 🔎 Research Interests
+- **Wireless Sensing:** Wi-Fi Sensing; RFID Sensing; Acoustic Sensing, any kinds of sensing, etc.
+  
+- **Intelligent Surfaces for Wireless Communication and Sensing:** Smart Metasurface; Smart Antenna, etc.
+
+-**AI for Mobile Health Sensing:** new digital biomarker discovery, contactless health monitoring, etc., to advance personalized medicine.
 
 
 # 🔥 News
