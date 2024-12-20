@@ -203,7 +203,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
 **Chao Feng**, Jie Xiong, Liqiong Chang,  Ju Wang, Xiaojiang Chen, Dingyi Fang, Zhanyong Tang
 
-**ICDCS (CCF B)**
+**ICDCS 2019 (CCF B)**
 
 - Wi-Fi Sensing.
 </div>
