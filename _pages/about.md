@@ -129,6 +129,45 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2022</div><img src='images/Ubicomp2022-Earmonitor.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**Earmonitor: In-ear motion-resilient acoustic sensing using commodity earphones**](https://chaof94.github.io/Papers/Ubicomp2022-Earmonitor.pdf)
+ 
+ Xue Sun, Jie Xiong, **Chao Feng (Corresponding Author)**, Wenwen Deng, Xudong Wei, Dingyi Fang, Xiaojiang Chen
+
+**Ubicomp 2022 (CCF A)**
+
+- Earphone Sensing.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2022</div><img src='images/Mobicom2022-Protego.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**Protego: Securing Wireless Communication via Programmable Metasurface**](https://chaof94.github.io/Papers/Mobicom2022-Protego.pdf)
+ 
+ Xinyi Li(Equal Contribution), **Chao Feng (Equal Contribution)**, Fengyi Song, Chenghan Jiang, Yangfan Zhang, Xinyu Zhang, Xiaojiang Chen
+
+**Mobicom 2022 (CCF A)**
+
+- RF Metasurface.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2022</div><img src='images/Ubicomp2022-Wi-Learner.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**Wi-Learner: Towards One-shot Learning for Cross-Domain Wi-Fi based Gesture Recognition**](https://chaof94.github.io/Papers/Ubicomp2022-Wi-Learner.pdf)
+ 
+  **Chao Feng **, Nan Wang, Yicheng Jiang, Xia Zheng, Zheng Wang, Xiaojiang Chen
+
+**Ubicomp 2022 (CCF A)**
+
+- Wi-Fi Sensing.
+</div>
+</div>
 
 
 
