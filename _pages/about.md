@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my PHD degree in 2022 from Northwest University, under the supervision of Prof. Xiaojiang Chen. I am currently an associate professor in the School of Computer Science and Technology at Northwest University. Email: chaofeng@nwu.edu.cn
+I received my PHD degree in 2022 from Northwest University, under the supervision of [Prof. Xiaojiang Chen](https://xjchen-nwu.github.io/xiaojiangchen.github.io/). I am currently an associate professor in the School of Computer Science and Technology at Northwest University. Email: chaofeng@nwu.edu.cn
 
 My research focuses on wireless sensing mobile computing.
 
