@@ -157,10 +157,10 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2022</div><img src='images/Ubicomp2022-Wi-Learner.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2022</div><img src='images/UbiComp2022-Wi-Learner.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
- [**Wi-Learner: Towards One-shot Learning for Cross-Domain Wi-Fi based Gesture Recognition**](https://chaof94.github.io/Papers/Ubicomp2022-Wi-Learner.pdf)
+ [**Wi-Learner: Towards One-shot Learning for Cross-Domain Wi-Fi based Gesture Recognition**](https://chaof94.github.io/Papers/UbiComp2022-Wi-Learner.pdf)
  
 **Chao Feng**, Nan Wang, Yicheng Jiang, Xia Zheng, Zheng Wang, Xiaojiang Chen
 
@@ -170,7 +170,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2021</div><img src='images/RFlens.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2021</div><img src='images/RFlens.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [**RFlens: Metasurface-Enabled Beamforming for IoT Communication and Sensing**](https://chaof94.github.io/Papers/RFlens.pdf)
@@ -183,10 +183,10 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2021</div><img src='images/Ubicomp2021-RF-Identity.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2021</div><img src='images/UbiComp2021-RF-Identity.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
- [**RF-Identity: Non-Intrusive Person Identification Based On Commodity RFID Devices**](https://chaof94.github.io/Papers/Ubicomp2021-RF-Identity.pdf)
+ [**RF-Identity: Non-Intrusive Person Identification Based On Commodity RFID Devices**](https://chaof94.github.io/Papers/UbiComp2021-RF-Identity.pdf)
  
 **Chao Feng**, Jie Xiong, Liqiong Chang, Fuwei Wang, Ju Wang, Dingyi Fang
 
@@ -196,7 +196,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2019</div><img src='images/WiMi.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2019</div><img src='images/WiMi.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
  [**WiMi: Target Material Identification with Commodity Wi-Fi Devices**](https://chaof94.github.io/Papers/WiMi.pdf)
