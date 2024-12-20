@@ -72,7 +72,7 @@ Xue Sun, Jie Xiong, **Chao Feng**, Xiaohui Li, Jiayi Zhang, Binghao Li, Dingyi F
 
 # 📖 Educations
 - *2017.09 - 2022.06*, PhD in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
-- *2016.09 - 2027.06*, Master in Communication Engineering (Supervisor: Xiaojiang Chen), Northwest University. 
+- *2016.09 - 2017.06*, Master in Communication Engineering (Supervisor: Xiaojiang Chen), Northwest University. 
 
 # 💰 Grants
 - *2024.01-2026.12*, Principal Investigator, National Natural Science Foundation of China, No. 62302392.
