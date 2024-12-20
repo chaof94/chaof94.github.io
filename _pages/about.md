@@ -119,7 +119,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2023</div><img src='images/NDSI2023-RFbouncer.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks**](https://chaof94.github.io/Papers/NSDI2023-RFbouncer.pdf)
+ [**RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks**](https://chaof94.github.io/Papers/NDSI2023-RFbouncer.pdf)
  
  Xinyi Li(Equal Contribution), **Chao Feng (Equal Contribution)**, Xiaojing Wang, Yangfan Zhang, Yaxiong Xie, Xiaojiang Chen
 
