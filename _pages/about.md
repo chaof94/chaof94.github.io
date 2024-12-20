@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my PHD degree in 2022 from Northwest University, under the supervision of [Prof. Xiaojiang Chen](https://xjchen-nwu.github.io/xiaojiangchen.github.io/). I am currently an associate professor in the School of Computer Science and Technology at Northwest University. Email: chaofeng@nwu.edu.cn
+I received my PhD degree in 2022 from Northwest University, under the supervision of [Prof. Xiaojiang Chen](https://xjchen-nwu.github.io/xiaojiangchen.github.io/). I am currently an associate professor in the School of Computer Science and Technology at Northwest University. Email: chaofeng@nwu.edu.cn
 
 My research focuses on wireless sensing mobile computing.
 
@@ -27,6 +27,19 @@ My research focuses on wireless sensing mobile computing.
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**]([https://ieeexplore.ieee.org/abstract/document/10791302](https://chaof94.github.io/Papers/mmFinger.pdf))
+
+Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiaojiang Chen
+
+**TMC 2024 (CCF A)**
+
+- mmWave Sensing.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="80%"></div></div>
