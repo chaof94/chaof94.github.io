@@ -52,9 +52,9 @@ Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiao
 - *2016.09 - 2027.06*, Master in Communication Engineering (Supervisor: Xiaojiang Chen), Northwest University. 
 
 # 💰 Grants
-- *2024.01-2026.12*, Principal Investigator: National Natural Science Foundation of China, No. 62302392,
+- *2024.01-2026.12*, Principal Investigator, National Natural Science Foundation of China, No. 62302392.
 
 
-{% # 💻 Internship %}
+ # 💻 Internship
 
 # 👨‍💻 Students
