@@ -24,7 +24,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
   
 - **Intelligent Surfaces for Wireless Communication and Sensing:** Smart Metasurface; Smart Antenna, etc.
 
--**AI for Mobile Health Sensing:** new digital biomarker discovery, contactless health monitoring, etc., to advance personalized medicine.
+- **AI for Mobile Health Sensing:** new digital biomarker discovery, contactless health monitoring, etc., to advance personalized medicine.
 
 
 # 🔥 News
