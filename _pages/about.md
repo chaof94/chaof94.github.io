@@ -35,7 +35,7 @@ My research focuses on wireless sensing mobile computing.
 
 Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiaojiang Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=pvDegeQAAAAJ&sortby=pubdate&citation_for_view=pvDegeQAAAAJ:ULOm3_A8WrAC) 
+[**Project**](https://chaof94.github.io/Papers/mmFinger.pdf) 
 
 - mmWave Sensing.
 </div>
