@@ -69,11 +69,24 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 
  **Mobisys 2024 (CCF B)**
 
-- Acoustic metasurface.
+- Acoustic Metasurface.
 </div>
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/EarSSR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**EarSSR: Silent Speech Recognition via Earphones**](https://chaof94.github.io/Papers/EarSSR.pdf)
+ 
+ Xue Sun, Jie Xiong, **Chao Feng**, Haoyu Li, Yuli Wu, Dingyi Fang, Xiaojiang Chen
+
+**TMC 2024 (CCF A)**
+
+- Earphone Sensing.
+- Silent Speech Recognition.
+</div>
+</div>
 
 
 
