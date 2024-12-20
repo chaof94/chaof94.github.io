@@ -78,6 +78,6 @@ Xue Sun, Jie Xiong, **Chao Feng**, Xiaohui Li, Jiayi Zhang, Binghao Li, Dingyi F
 - *2024.01-2026.12*, Principal Investigator, National Natural Science Foundation of China, No. 62302392.
 
 
- # 💻 Internship
+# 💻 Internship
 
 # 👨‍💻 Students
