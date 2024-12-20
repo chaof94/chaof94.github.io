@@ -28,6 +28,8 @@ My research focuses on wireless sensing mobile computing.
 
 # 📝 Publications 
 
+- **Conferences**
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
