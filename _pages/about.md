@@ -156,18 +156,59 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2022</div><img src='images/Ubicomp2022-Wi-Learner.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
  [**Wi-Learner: Towards One-shot Learning for Cross-Domain Wi-Fi based Gesture Recognition**](https://chaof94.github.io/Papers/Ubicomp2022-Wi-Learner.pdf)
  
-  **Chao Feng **, Nan Wang, Yicheng Jiang, Xia Zheng, Zheng Wang, Xiaojiang Chen
+**Chao Feng**, Nan Wang, Yicheng Jiang, Xia Zheng, Zheng Wang, Xiaojiang Chen
 
 **Ubicomp 2022 (CCF A)**
 
 - Wi-Fi Sensing.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2021</div><img src='images/RFlens.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**RFlens: Metasurface-Enabled Beamforming for IoT Communication and Sensing**](https://chaof94.github.io/Papers/RFlens.pdf)
+ 
+ **Chao Feng (Equal Contribution)**,  Xinyi Li(Equal Contribution),  Yangfan Zhang, Xiaojing Wang, Liqiong Chang, Fuwei Wang, Xinyu Zhang, Xiaojiang Chen
+
+**Mobicom 2021 (CCF A)**
+
+- RF Metasurface.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2021</div><img src='images/Ubicomp2021-RF-Identity.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+ [**RF-Identity: Non-Intrusive Person Identification Based On Commodity RFID Devices**](https://chaof94.github.io/Papers/Ubicomp2021-RF-Identity.pdf)
+ 
+**Chao Feng**, Jie Xiong, Liqiong Chang, Fuwei Wang, Ju Wang, Dingyi Fang
+
+**Ubicomp 2021 (CCF A)**
+
+- RFID Sensing.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2019</div><img src='images/WiMi.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+ [**WiMi: Target Material Identification with Commodity Wi-Fi Devices**](https://chaof94.github.io/Papers/WiMi.pdf)
+ 
+**Chao Feng**, Jie Xiong, Liqiong Chang,  Ju Wang, Xiaojiang Chen, Dingyi Fang, Zhanyong Tang
+
+**ICDCS (CCF B)**
+
+- Wi-Fi Sensing.
+</div>
+</div>
+
 
 
 
