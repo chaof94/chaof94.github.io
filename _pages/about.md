@@ -89,6 +89,47 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2023</div><img src='images/Ubicomp-2023-RF-CM.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**Rf-CM: Cross-modal framework for rf-enabled few-shot human activity recognition**](https://chaof94.github.io/Papers/Ubicomp-2023-RF-CM.pdf)
+ 
+ Xuan Wang, Tong Liu, **Chao Feng**, Dingyi Fang, Xiaojiang Chen
+
+**Ubicomp 2023 (CCF A)**
+
+- mmWave Sensing.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOCCH 2023</div><img src='images/JOCCH.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**Toward Multi-area Contactless Museum Visitor Counting with Commodity WiFi**](https://chaof94.github.io/Papers/JOCCH.pdf)
+ 
+ Yicheng Jiang, Xia Zheng, **Chao Feng**
+
+**JOCCH 2023**
+
+- Wi-Fi Sensing.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2023</div><img src='images/NSDI2023-RFbouncer.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks**](https://chaof94.github.io/Papers/NSDI2023-RFbouncer.pdf)
+ 
+ Xinyi Li(Equal Contribution), **Chao Feng (Equal Contribution)**, Xiaojing Wang, Yangfan Zhang, Yaxiong Xie, Xiaojiang Chen
+
+**NSDI 2023 (CCF A)**
+
+- RF Metasurface.
+</div>
+</div>
+
+
 
 
 # 🎖 Honors and Awards
