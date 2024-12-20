@@ -217,7 +217,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 
 **Chao Feng**, Xinyi Li, Liqiong Chang, Jie Xiong, Xiaojiang Chen, Dingyi Fang, Baoying Liu, Feng Chen, Tao Zhang
 
- **Sensys Poster (CCF B)**, <span style="color:red;"> **Best poster award** </span>  
+ **Sensys Poster (CCF B)**, 🏆 <span style="color:red;"> **Best poster award** </span>  
 
 - Wi-Fi Sensing.
 </div>
