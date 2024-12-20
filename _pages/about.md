@@ -43,7 +43,23 @@ Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiao
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+- **Journals**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**](https://ieeexplore.ieee.org/abstract/document/10791302),**TMC 2024**
+
+Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiaojiang Chen
+
+[**Project**](https://chaof94.github.io/Papers/mmFinger.pdf) 
+
+- mmWave Sensing.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2018.11*  **Best Poster Award** in Sensys 2018. 
