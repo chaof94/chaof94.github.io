@@ -31,7 +31,7 @@ My research focuses on wireless sensing mobile computing.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**]((https://chaof94.github.io/Papers/mmFinger.pdf)
+ [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**](https://chaof94.github.io/Papers/mmFinger.pdf)
 
 Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiaojiang Chen
 
