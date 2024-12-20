@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chao Feng"
+title                    : "Chao Feng (冯超)"
 description              : "Working hard. "
 repository               : "chaof94/chaof94.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chao Feng"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/fc.png"
   bio              : "Northwest University"
   location         : "Xi'an, China"
   employer         :
