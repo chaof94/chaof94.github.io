@@ -30,7 +30,7 @@ My research focuses on wireless sensing mobile computing.
 
 - **Conferences**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2024</div><img src='images/Mobicom2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2024</div><img src='images/Gastag2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [**Gastag: A Gas Sensing Paradigm using Graphene-based Tags**](https://dl.acm.org/doi/abs/10.1145/3636534.3649365),**Mobicom 2024 (CCF A)**
