@@ -31,7 +31,9 @@ My research focuses on wireless sensing mobile computing.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**](https://chaof94.github.io/Papers/mmFinger.pdf),Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiaojiang Chen
+ [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**](https://chaof94.github.io/Papers/mmFinger.pdf)
+ 
+ Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiaojiang Chen
 
 **TMC 2024 (CCF A)**
 
@@ -40,28 +42,17 @@ My research focuses on wireless sensing mobile computing.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
 
- [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**](https://ieeexplore.ieee.org/abstract/document/10791302),**TMC 2024 (CCF A)**
-
-Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiaojiang Chen
-
-[**Project**](https://chaof94.github.io/Papers/mmFinger.pdf) 
-
-- mmWave Sensing.
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2024</div><img src='images/Gastag2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**Gastag: A Gas Sensing Paradigm using Graphene-based Tags**](https://dl.acm.org/doi/abs/10.1145/3636534.3649365),**Mobicom 2024 (CCF A)**
+ [**Gastag: A Gas Sensing Paradigm using Graphene-based Tags**](https://chaof94.github.io/Papers/Gastag.pdf)
 
 Xue Sun, Jie Xiong, **Chao Feng**, Xiaohui Li, Jiayi Zhang, Binghao Li, Dingyi Fang, Xiaojiang Chen
 
-[**Project**](https://chaof94.github.io/Papers/Gastag.pdf) 
+ **Mobicom 2024 (CCF A)**
 
 - RFID Sensing.
 - Gas Sensing
