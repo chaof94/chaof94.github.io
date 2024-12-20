@@ -210,6 +210,20 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensys 2018</div><img src='images/Poster-WiMi.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Poster: Material Identification with Commodity Wi-Fi Devices**](https://chaof94.github.io/Papers/Poster-WiMi.pdf)
+
+**Chao Feng**, Xinyi Li, Liqiong Chang, Jie Xiong, Xiaojiang Chen, Dingyi Fang, Baoying Liu, Feng Chen, Tao Zhang
+
+ **Sensys Poster (CCF B)**, <span style="color:red;"> **Best poster award** </span>  
+
+- Wi-Fi Sensing.
+</div>
+</div>
+
+
 
 
 # 🎖 Honors and Awards
