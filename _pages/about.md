@@ -19,7 +19,7 @@ redirect_from:
 
 I received my PhD degree in 2022 from Northwest University, under the supervision of [Prof. Xiaojiang Chen](https://xjchen-nwu.github.io/xiaojiangchen.github.io/). I am currently an associate professor in the School of Computer Science and Technology at Northwest University.
 
-🔥 🔥 🔥 <span style="color:red;">  **Recruiting:** </span>  I am looking for self-motivated PhD and Master students to work on research projects in wireless networking and ubiquitous computing. I like interdisciplinary students, i.e., electronics, physics, and chemistry majors. If interested, don't hesitate to get in touch with [chaofeng@nwu.edu.cn](mailto:chaofeng@nwu.edu.cn).
+🔥 🔥 🔥 <span style="color:red;">  **Recruiting:** </span>  I am looking for self-motivated PhD, Master, and Undergraduate students to work on research projects in wireless networking and ubiquitous computing. I like interdisciplinary students, i.e., electronics, physics, and chemistry majors. If interested, don't hesitate to get in touch with [chaofeng@nwu.edu.cn](mailto:chaofeng@nwu.edu.cn).
 
 
 # 🔎 Research Interests
