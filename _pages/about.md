@@ -22,9 +22,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 🔥 🔥 🔥 <span style="color:red;">  **Recruiting:** </span>  I am looking for self-motivated PhD, Master, and Undergraduate students to work on research projects in wireless networking and ubiquitous computing. I like interdisciplinary students, i.e., electronics, physics, and chemistry majors. If interested, don't hesitate to get in touch with [chaofeng@nwu.edu.cn](mailto:chaofeng@nwu.edu.cn).
 
-![visitor count](https://profile-counter.glitch.me/chaof94/count.svg)
 
-![ ](https://komarev.com/ghpvc/?username=chaof94)
 
 
 # 🔎 Research Interests
@@ -256,3 +254,5 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 # 💻 Internship
 
 # 👨‍💻 Students
+
+![ ](https://komarev.com/ghpvc/?username=chaof94)
