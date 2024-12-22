@@ -24,7 +24,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 ![visitor count](https://profile-counter.glitch.me/chaof94/count.svg)
 
-![ ](https://komarev.com/ghpvc/?username={chaof94})
+![ ](https://komarev.com/ghpvc/?username=chaof94)
 
 
 # 🔎 Research Interests
