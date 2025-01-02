@@ -27,7 +27,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 
 # 🔎 Research Interests
-- **Battery-free Wireless Sensing:** Wi-Fi Sensing; RFID Sensing; Acoustic Sensing, any kinds of sensing, etc.
+- **Battery-free Wireless Sensing:** Wi-Fi Sensing, RFID Sensing, mmWave Sensing, Acoustic Sensing, and any kind of sensing, etc.
   
 - **Intelligent Surfaces for Wireless Communication and Sensing:** Smart Metasurface and smart antenna to enhance communication and sensing.
 
