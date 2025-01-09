@@ -47,7 +47,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='images/RF-Sauron.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**RF-Sauron: Enabling Contact-free Interaction on Eyeglass Using Conformal RFID Tag**](https://chaof94.github.io/Papers/mmFinger.pdf)
+ [**RF-Sauron: Enabling Contact-free Interaction on Eyeglass Using Conformal RFID Tag**](https://ieeexplore.ieee.org/document/10833685)
  
  Baizhou Yang, Ling Chen, Xiaopeng Peng, Jiashen Chen, Yani Tang, Wei Wang, Dingyi Fang, **Chao Feng (Corresponding author)**
  
