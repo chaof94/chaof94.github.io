@@ -44,7 +44,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/RISensing.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/RISensing.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [**RISensing: Leveraging Reconfigurable Intelligent Surfaces to Empower Wi-Fi Sensing**](https://chaof94.github.io/Papers/XX.pdf)
