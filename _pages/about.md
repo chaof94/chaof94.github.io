@@ -37,11 +37,27 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 
 # 🔥 News
-- *2024.12*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **RF-Sauron** is accepted by **IEEE IoTJ 2025**. 
-- *2024.12*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **mmFinger** is accepted by **IEEE TMC 2024**. 
+- *2025.6*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **RISensing** is accepted by **IEEE TMC 2025**.
+- *2024.12*: <span style="color:red;">  <b>New!</b> </span> Our work **RF-Sauron** is accepted by **IEEE IoTJ 2025**. 
+- *2024.12*: <span style="color:red;">  <b>New!</b> </span> Our work **mmFinger** is accepted by **IEEE TMC 2024**. 
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**RISensing: Leveraging Reconfigurable Intelligent Surfaces to Empower Wi-Fi Sensing**](https://chaof94.github.io/Papers/XX.pdf)
+ 
+Xiaojing Wang, Binbin Xie, Guanghui Lv, Boyang Liu, Chenhao Ma, Renjie Zhao, **Chao Feng (Corresponding author)**,  Xiaojiang Chen 
+**IEEE TMC 2025 (CCF A)**
+
+-  Metasurface-based Wi-Fi Sensing.
+</div>
+</div>
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='images/RF-Sauron.png' alt="sym" width="80%"></div></div>
