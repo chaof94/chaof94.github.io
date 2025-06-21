@@ -37,7 +37,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 
 # 🔥 News
-- *2025.6*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **RISensing** is accepted by **IEEE TMC 2025**.
+- *2025.06*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **RISensing** is accepted by **IEEE TMC 2025**.
 - *2024.12*: <span style="color:red;">  <b>New!</b> </span> Our work **RF-Sauron** is accepted by **IEEE IoTJ 2025**. 
 - *2024.12*: <span style="color:red;">  <b>New!</b> </span> Our work **mmFinger** is accepted by **IEEE TMC 2024**. 
 
