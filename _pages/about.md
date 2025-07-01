@@ -47,7 +47,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/RISensing.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**RISensing: Leveraging Reconfigurable Intelligent Surfaces to Empower Wi-Fi Sensing**](https://chaof94.github.io/Papers/XX.pdf)
+ [**RISensing: Leveraging Reconfigurable Intelligent Surfaces to Empower Wi-Fi Sensing**](https://chaof94.github.io/Papers/2025-TMC-RISensing.pdf)
  
 Xiaojing Wang, Binbin Xie, Guanghui Lv, Boyang Liu, Chenhao Ma, Renjie Zhao, **Chao Feng (Corresponding author)**,  Xiaojiang Chen 
 
