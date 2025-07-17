@@ -45,6 +45,22 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGCOMM 2025</div><img src='images/MetaAI.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**Enabling Over-the-Air AI for Edge Computing via Metasurface-Driven Physical Neural Networks**](https://chaof94.github.io/Papers/XX.pdf)
+ 
+**Chao Feng**, Shuo Liang, Chenghui Li, Gaoteng Zhao, Beier Jing, Yaxiong Xie, Xiaojiang Chen
+
+**ACM SIGCOMM 2025 (CCF A)**
+
+- RF-computing.
+- Metasurface.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/RISensing.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
