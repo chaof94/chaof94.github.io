@@ -54,7 +54,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 **ACM SIGCOMM 2025 (CCF A)**
 
-- RF-computing.
+- RF Computing.
 - Metasurface.
 </div>
 </div>
