@@ -46,8 +46,6 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 # 📝 Publications 
 
 ## conference
-
-## Journel
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGCOMM 2025</div><img src='images/MetaAI.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,57 +59,6 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 - Metasurface-based Physical Neural Network.
 </div>
 </div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/RISensing.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- [**RISensing: Leveraging Reconfigurable Intelligent Surfaces to Empower Wi-Fi Sensing**](https://chaof94.github.io/Papers/2025-TMC-RISensing.pdf)
- 
-Xiaojing Wang, Binbin Xie, Guanghui Lv, Boyang Liu, Chenhao Ma, Renjie Zhao, **Chao Feng (Corresponding author)**,  Xiaojiang Chen 
-
-**IEEE TMC 2025 (CCF A)**
-
--  Metasurface-based Wi-Fi Sensing.
-</div>
-</div>
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='images/RF-Sauron.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- [**RF-Sauron: Enabling Contact-free Interaction on Eyeglass Using Conformal RFID Tag**](https://ieeexplore.ieee.org/document/10833685)
- 
- Baizhou Yang, Ling Chen, Xiaopeng Peng, Jiashen Chen, Yani Tang, Wei Wang, Dingyi Fang, **Chao Feng (Corresponding author)**
- 
-
-**IEEE IoTJ 2025**
-
-- RFID Sensing.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**](https://chaof94.github.io/Papers/mmFinger.pdf)
- 
- Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiaojiang Chen
-
-**IEEE TMC 2024 (CCF A)**
-
-- mmWave Sensing.
-</div>
-</div>
-
-
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobicom 2024</div><img src='images/Gastag2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -127,7 +74,6 @@ Xue Sun, Jie Xiong, **Chao Feng**, Xiaohui Li, Jiayi Zhang, Binghao Li, Dingyi F
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobisys 2024</div><img src='images/CW-AcousLen.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -141,22 +87,6 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/EarSSR.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- [**EarSSR: Silent Speech Recognition via Earphones**](https://chaof94.github.io/Papers/EarSSR.pdf)
- 
- Xue Sun, Jie Xiong, **Chao Feng**, Haoyu Li, Yuli Wu, Dingyi Fang, Xiaojiang Chen
-
-**IEEE TMC 2024 (CCF A)**
-
-- Earphone Sensing.
-- Silent Speech Recognition.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2023</div><img src='images/Ubicomp2023-RF-CM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -169,20 +99,6 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 - mmWave Sensing.
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOCCH 2023</div><img src='images/JOCCH.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- [**Toward Multi-area Contactless Museum Visitor Counting with Commodity WiFi**](https://chaof94.github.io/Papers/JOCCH.pdf)
- 
- Yicheng Jiang, Xia Zheng, **Chao Feng**
-
-**ACM JOCCH 2023**
-
-- Wi-Fi Sensing.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2023</div><img src='images/NDSI2023-RFbouncer.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -264,6 +180,8 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2019</div><img src='images/WiMi.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -291,7 +209,91 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 </div>
 
+## Journel
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/RISensing.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**RISensing: Leveraging Reconfigurable Intelligent Surfaces to Empower Wi-Fi Sensing**](https://chaof94.github.io/Papers/2025-TMC-RISensing.pdf)
+ 
+Xiaojing Wang, Binbin Xie, Guanghui Lv, Boyang Liu, Chenhao Ma, Renjie Zhao, **Chao Feng (Corresponding author)**,  Xiaojiang Chen 
+
+**IEEE TMC 2025 (CCF A)**
+
+-  Metasurface-based Wi-Fi Sensing.
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='images/RF-Sauron.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**RF-Sauron: Enabling Contact-free Interaction on Eyeglass Using Conformal RFID Tag**](https://ieeexplore.ieee.org/document/10833685)
+ 
+ Baizhou Yang, Ling Chen, Xiaopeng Peng, Jiashen Chen, Yani Tang, Wei Wang, Dingyi Fang, **Chao Feng (Corresponding author)**
+ 
+
+**IEEE IoTJ 2025**
+
+- RFID Sensing.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**](https://chaof94.github.io/Papers/mmFinger.pdf)
+ 
+ Xuan Wang, Xuerong Zhao, **Chao Feng (Corresponding author)**, Dingyi Fang, Xiaojiang Chen
+
+**IEEE TMC 2024 (CCF A)**
+
+- mmWave Sensing.
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/EarSSR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**EarSSR: Silent Speech Recognition via Earphones**](https://chaof94.github.io/Papers/EarSSR.pdf)
+ 
+ Xue Sun, Jie Xiong, **Chao Feng**, Haoyu Li, Yuli Wu, Dingyi Fang, Xiaojiang Chen
+
+**IEEE TMC 2024 (CCF A)**
+
+- Earphone Sensing.
+- Silent Speech Recognition.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOCCH 2023</div><img src='images/JOCCH.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**Toward Multi-area Contactless Museum Visitor Counting with Commodity WiFi**](https://chaof94.github.io/Papers/JOCCH.pdf)
+ 
+ Yicheng Jiang, Xia Zheng, **Chao Feng**
+
+**ACM JOCCH 2023**
+
+- Wi-Fi Sensing.
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
