@@ -90,7 +90,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2023</div><img src='images/Ubicomp2023-RF-CM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**Rf-CM: Cross-modal Framework for Rf-enabled Few-shot Human Activity Recognition**](https://chaof94.github.io/Papers/Ubicomp-2023-RF-CM.pdf)
+ [**Rf-CM: Cross-modal Framework for Rf-enabled Few-shot Human Activity Recognition**](https://chaof94.github.io/Papers/Ubicomp2023-RF-CM.pdf)
  
  Xuan Wang, Tong Liu, **Chao Feng**, Dingyi Fang, Xiaojiang Chen
 
