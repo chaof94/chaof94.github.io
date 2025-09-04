@@ -49,7 +49,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGCOMM 2025</div><img src='images/MetaAI.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**Enabling Over-the-Air AI for Edge Computing via Metasurface-Driven Physical Neural Networks**](https://chaof94.github.io/Papers/XX.pdf)
+ [**Enabling Over-the-Air AI for Edge Computing via Metasurface-Driven Physical Neural Networks**](https://chaof94.github.io/Papers/MetaAI.pdf)
  
 **Chao Feng**, Shuo Liang, Chenghui Li, Gaoteng Zhao, Beier Jing, Yaxiong Xie, Xiaojiang Chen
 
