@@ -233,7 +233,7 @@ Xiaojing Wang, Binbin Xie, Guanghui Lv, Boyang Liu, Chenhao Ma, Renjie Zhao, **C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='images/RF-Sauron.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**RF-Sauron: Enabling Contact-free Interaction on Eyeglass Using Conformal RFID Tag**](https://ieeexplore.ieee.org/document/10833685)
+ [**RF-Sauron: Enabling Contact-free Interaction on Eyeglass Using Conformal RFID Tag**](https://chaof94.github.io/Papers/RF-Sauron.pdf)
  
  Baizhou Yang, Ling Chen, Xiaopeng Peng, Jiashen Chen, Yani Tang, Wei Wang, Dingyi Fang, **Chao Feng (Corresponding author)**
  
