@@ -39,14 +39,29 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 # 🔥 News
 - *2025.09*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **SpikeTouch** is accepted by **ACM Ubicomp 2025**.
 - *2025.07*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **MetaAI** is accepted by **ACM SIGCOMM 2025**.
-- *2025.06*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **RISensing** is accepted by **IEEE TMC 2025**.
+- *2025.06*:  Our work **RISensing** is accepted by **IEEE TMC 2025**.
 - *2024.12*:  Our work **RF-Sauron** is accepted by **IEEE IoTJ 2025**. 
-- *2024.12*:  Our work **mmFinger** is accepted by **IEEE TMC 2024**. 
+
 
 
 # 📝 Publications 
 
 ## 🗞️ Conference
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><img src='images/SpikeTouch.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [** SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception**](https://chaof94.github.io/Papers/SpikeTouch.pdf)
+ 
+Xuerong Zhao, Xuan Wang, Jian Wu, **Chao Feng**, Dingyi Fang, Xiaojiang Chen, Zheng Wang
+
+**ACM Ubicomp 2025 (CCF A)**
+
+- Spike Neural Networks.
+- Tactile Perception.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGCOMM 2025</div><img src='images/MetaAI.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
