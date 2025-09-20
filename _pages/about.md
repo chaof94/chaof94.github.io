@@ -47,7 +47,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 # 📝 Publications 
 
 ## 🗞️ Conference
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><img src='images/SpikeTouch.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><img src='images/SpikeTouch.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [**SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception**](https://chaof94.github.io/Papers/SpikeTouch.pdf)
