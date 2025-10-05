@@ -52,7 +52,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
  [**SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception**](https://chaof94.github.io/Papers/SpikeTouch.pdf)
  
-Xuerong Zhao, Xuan Wang, Jian Wu, **Chao Feng**, Dingyi Fang, Xiaojiang Chen, Zheng Wang
+Xuerong Zhao, Xuan Wang, Jian Wu, **Chao Feng (Corresponding Author)**, Dingyi Fang, Xiaojiang Chen, Zheng Wang
 
 **ACM Ubicomp 2025 (CCF A)**
 
