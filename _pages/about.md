@@ -239,7 +239,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 
 -  Multimodal RF Sensing.
 </div>
-</div
+</div>
 
 
 
