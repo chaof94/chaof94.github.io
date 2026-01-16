@@ -37,10 +37,11 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 
 # 🔥 News
+- *2026.01*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **RFusion** is accepted by **IEEE TMC 2026**. 
 - *2025.09*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **SpikeTouch** is accepted by **ACM Ubicomp 2025**.
 - *2025.07*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **MetaAI** is accepted by **ACM SIGCOMM 2025**.
 - *2025.06*:  Our work **RISensing** is accepted by **IEEE TMC 2025**.
-- *2024.12*:  Our work **RF-Sauron** is accepted by **IEEE IoTJ 2025**. 
+
 
 
 
@@ -226,6 +227,19 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 
 ## 📑 Journal
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/RISensing.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**RFusion: Dynamic Multimodal RF Fusion for Few-Shot Human Activity Recognition**](https://chaof94.github.io/Papers/XX.pdf)
+ 
+**Chao Feng**, Jiashen Chen, Shuo Liang, Xiaopeng Peng, Baizhou Yang, Xuan Wang,  Zexuan Huang, Xianjia Meng, Xiaojiang Chen
+
+**IEEE TMC 2025 (CCF A)**
+
+-  Multimodal RF Sensing.
+</div>
+</div
 
 
 
