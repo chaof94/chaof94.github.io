@@ -235,7 +235,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
  
 **Chao Feng**, Jiashen Chen, Shuo Liang, Xiaopeng Peng, Baizhou Yang, Xuan Wang,  Zexuan Huang, Xianjia Meng, Xiaojiang Chen
 
-**IEEE TMC 2025 (CCF A)**
+**IEEE TMC 2026 (CCF A)**
 
 -  Multimodal RF Sensing.
 </div>
