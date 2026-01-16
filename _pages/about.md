@@ -228,7 +228,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 
 ## 📑 Journal
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/RFusion.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/RFusion.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [**RFusion: Dynamic Multimodal RF Fusion for Few-Shot Human Activity Recognition**](https://chaof94.github.io/Papers/XX.pdf)
