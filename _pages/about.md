@@ -37,6 +37,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 
 # 🔥 News
+- *2026.01*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Two papers **MetaScatter** and  **OrbWeaver** are accepted by **ACM MobiCom 2026**.
 - *2026.01*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **RFusion** is accepted by **IEEE TMC 2026**. 
 - *2025.09*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **SpikeTouch** is accepted by **ACM Ubicomp 2025**.
 - *2025.07*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **MetaAI** is accepted by **ACM SIGCOMM 2025**.
@@ -48,6 +49,35 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 # 📝 Publications 
 
 ## 🗞️ Conference
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='images/XX.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://chaof94.github.io/Papers/XX.pdf)
+ 
+Juan He, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chunlong Fei, **Chao Feng (Corresponding Author)**, Xiaojiang Chen
+**ACM Mobicom 2026 (CCF A)**
+
+- Underwater Backscatter.
+- Acoustic Metasurface.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='images/XX.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**OrbWeaver : A Geometric Optics-Based RIS for Omnidirectional 3D Beam Steering**](https://chaof94.github.io/Papers/XX.pdf)
+ 
+Xuan Wang, Liyao Li, Runchuan Liu, Jiameng Bai, Kun Woo Cho,  **Chao Feng**, Yuhui Ren, Xiaojiang Chen, Yaxiong Xie
+**ACM Mobicom 2026 (CCF A)**
+
+- RF RIS.
+- Beam Steering.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><img src='images/SpikeTouch.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
