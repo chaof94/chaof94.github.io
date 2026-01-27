@@ -55,6 +55,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
  [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://chaof94.github.io/Papers/XX.pdf)
  
 Juan He, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chunlong Fei, **Chao Feng (Corresponding Author)**, Xiaojiang Chen
+
 **ACM Mobicom 2026 (CCF A)**
 
 - Underwater Backscatter.
@@ -69,6 +70,7 @@ Juan He, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chun
  [**OrbWeaver : A Geometric Optics-Based RIS for Omnidirectional 3D Beam Steering**](https://chaof94.github.io/Papers/XX.pdf)
  
 Xuan Wang, Liyao Li, Runchuan Liu, Jiameng Bai, Kun Woo Cho,  **Chao Feng**, Yuhui Ren, Xiaojiang Chen, Yaxiong Xie
+
 **ACM Mobicom 2026 (CCF A)**
 
 - RF RIS.
