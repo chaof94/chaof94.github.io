@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-I received my PhD degree in 2022 from Northwest University, under the supervision of [Prof. Xiaojiang Chen](https://xjchen-nwu.github.io/xiaojiangchen.github.io/). I am currently an associate professor in the School of Computer Science and Technology at Northwest University.
+I received my PhD degree in 2022 from Northwest University, under the supervision of [Prof. Xiaojiang Chen](https://xjchen-nwu.github.io/xiaojiangchen.github.io/). I am currently an associate professor in the School of Computer Science at Northwest University.
 
 
 🔥 🔥 🔥 <span style="color:red;">  **Recruiting:** </span>  I am looking for self-motivated PhD, Master, and Undergraduate students to work on research projects in wireless networking and ubiquitous computing. I like interdisciplinary students, i.e., electronics, physics, computer science, communication engineering, and chemistry majors. If interested, don't hesitate to get in touch with [chaofeng@nwu.edu.cn](mailto:chaofeng@nwu.edu.cn). 
@@ -49,7 +49,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 # 📝 Publications 
 
 ## 🗞️ Conference
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='images/XX.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='images/Metascatter.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://chaof94.github.io/Papers/XX.pdf)
@@ -64,7 +64,7 @@ Juan He, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chun
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='images/XX.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='images/longbo.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [**OrbWeaver : A Geometric Optics-Based RIS for Omnidirectional 3D Beam Steering**](https://chaof94.github.io/Papers/XX.pdf)
