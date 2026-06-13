@@ -52,7 +52,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='images/Metascatter.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://chaof94.github.io/Papers/XX.pdf)
+ [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://chaof94.github.io/Papers/MetaScatter.pdf)
  
 Juan He, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chunlong Fei, **Chao Feng (Corresponding Author)**, Xiaojiang Chen
 
