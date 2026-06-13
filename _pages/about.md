@@ -359,7 +359,8 @@ Xiaojing Wang, Binbin Xie, Guanghui Lv, Boyang Liu, Chenhao Ma, Renjie Zhao, **C
 
 
 # 🎖 Honors and Awards
-- *2018.11*:  **Best Poster Award**,  **Sensys 2018**. 
+- *2025*：**Shaanxi Province Sanqin Youth Outstanding Talent Program**
+- *2018*:  **Best Poster Award**,  **Sensys 2018**. 
 
 
 # 📖 Educations
@@ -370,7 +371,6 @@ Xiaojing Wang, Binbin Xie, Guanghui Lv, Boyang Liu, Chenhao Ma, Renjie Zhao, **C
 - *2024.01-2026.12*, Principal Investigator, National Natural Science Foundation of China, No. 62302392.
 
 
-# 💻 Internship
 
 # 👨‍💻 Students
 
