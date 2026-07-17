@@ -37,11 +37,12 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 
 # 🔥 News
+- *2026.07*:  One paper is accepted by **IEEE TMC 2026**.
 - *2026.01*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Two papers **MetaScatter** and  **OrbWeaver** are accepted by **ACM MobiCom 2026**.
 - *2026.01*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **RFusion** is accepted by **IEEE TMC 2026**. 
 - *2025.09*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **SpikeTouch** is accepted by **ACM Ubicomp 2025**.
 - *2025.07*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **MetaAI** is accepted by **ACM SIGCOMM 2025**.
-- *2025.06*:  Our work **RISensing** is accepted by **IEEE TMC 2025**.
+
 
 
 
@@ -259,6 +260,21 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 </div>
 
 ## 📑 Journal
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/XX.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**Wideband and Configurable Acoustic Metasurface for Enhanced Acoustic Sensing and Communication**](https://chaof94.github.io/Papers/XX.pdf)
+ 
+Juan He, Jie Xiong, Weihang Hu, **Chao Feng (Corresponding author)**, Enjie Yao, Xiaojing Wang, Chen Liu, Xiaojiang Chen
+
+**IEEE TMC 2026 (CCF A)**
+
+-  Acoustic Metasurface.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/RFusion.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
