@@ -51,10 +51,10 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 ## 🗞️ Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2026</div><img src='images/XX.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2026</div><img src='images/Hygieia.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**Hygieia: A Wearable Metamaterial Patch for Calibration-free Carotid Hemodynamics Monitoring**](https://chaof94.github.io/Papers/XX.pdf)
+ [**Hygieia: A Wearable Metamaterial Patch for Calibration-free Carotid Hemodynamics Monitoring**](https://chaof94.github.io/Papers/Hygieia.pdf)
  
 Chenghan Jiang, Shibo Zhang, Boxuan Yang, Xiaojing Wang, **Chao Feng**, Xinyi Li, and Xiaojiang Chen
 
