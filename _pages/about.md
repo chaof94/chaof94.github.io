@@ -403,7 +403,8 @@ Xiaojing Wang, Binbin Xie, Guanghui Lv, Boyang Liu, Chenhao Ma, Renjie Zhao, **C
 - *2016.09 - 2017.06*, Master in Communication Engineering (Supervisor: Xiaojiang Chen), Northwest University. 
 
 # 💰 Grants
-- *2024.01-2026.12*, Principal Investigator, National Natural Science Foundation of China, No. 62302392.
+- *2027.01-2030.12*, Principal Investigator, National Natural Science Foundation of China General Program, No. 62672406.
+- *2024.01-2026.12*, Principal Investigator, National Natural Science Foundation of China Youth Science Fund Project, No. 62302392.
 
 
 
