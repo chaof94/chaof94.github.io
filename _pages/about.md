@@ -36,11 +36,12 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 
 
 # 🔥 News
+- *2026.10*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **RF-Gas** is accepted by **IEEE ToN 2026**.
 - *2026.08*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **Hygieia** is accepted by **ACM Ubicomp 2026**.
 - *2026.07*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 One paper is accepted by **IEEE TMC 2026**.
 - *2026.01*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Two papers **MetaScatter** and  **OrbWeaver** are accepted by **ACM MobiCom 2026**.
 - *2026.01*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **RFusion** is accepted by **IEEE TMC 2026**. 
-- *2025.09*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **SpikeTouch** is accepted by **ACM Ubicomp 2025**.
+
 
 
 
