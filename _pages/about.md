@@ -31,7 +31,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 - **AI for Mobile Health Sensing:** new digital biomarker discovery, contactless health monitoring, etc., to advance personalized medicine.
 - **Resource-Efficient On-Device AI:** efficient machine learning from TinyML to edge LLMs and agents.
 - **Battery-free Wireless Sensing:** Wi-Fi Sensing, RFID Sensing, mmWave Sensing, Acoustic Sensing, and any kind of sensing, etc.
-- **Intelligent Surfaces for Wireless Communication and Sensing:** Smart Metasurface and smart antenna to enhance communication and sensing.
+- **Intelligent Surfaces for Wireless Communication and Sensing:** Smart metasurfaces and smart antennas to enhance communication and sensing.
 - **Material Science for Wireless Sensing:** Integrating material science to augment wireless sensing capabilities. 
 
 
