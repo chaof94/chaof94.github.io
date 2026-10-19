@@ -281,7 +281,7 @@ Juan He, Jie Xiong, Weihang Hu, **Chao Feng**, Enjie Yao, Xiaojing Wang, Chen Li
 ## 📑 Journal
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ToN 2026</div><img src='images/AcousLen.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ToN 2026</div><img src='images/XX.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [**RF-Gas: Targeted Gas Sensing with Material-Driven Passive RFID Tags**](https://chaof94.github.io/Papers/XX.pdf)
